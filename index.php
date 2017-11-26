@@ -40,7 +40,7 @@ video {
                 <h1 style="margin-bottom: 30px;"><strong>Memories</strong></h1>
                 <form>
                     <div class="input-group" style="width: 400px; margin-left: 50%; transform: translateX(-50%); ">
-                        <input type="text" class="form-control" placeholder="Going to Paris?"/>
+                        <input type="text" class="form-control" placeholder="Going to Montreal?"/>
                         <div class="input-group-btn">
                             <a href="search_videograph.php" class="btn btn-success" role="button">Go!</a>
                         </div>
