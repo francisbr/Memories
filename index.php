@@ -33,7 +33,7 @@ video {
 <body>
     <div style="background-color: #000000; margin-top: -20.9px;">
         <div class="videoContainer" >
-            <video id="bgVideo" autoplay loop poster="image.png" muted="">
+            <video id="bgVideo" autoplay loop muted="">
                 <source src="video1.mp4" type="video/mp4"></source>
             </video>
             <div class="center" >
@@ -45,7 +45,6 @@ video {
                             <a href="search_videograph.php" class="btn btn-success" role="button">Go!</a>
                         </div>
                     </div>
-
                 </form>
             </div>
         </div>
