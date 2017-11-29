@@ -64,7 +64,7 @@ footer{
 </style>
 
 
-<body>
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
     <div style="background-color: #000000; margin-top: -20.9px;">
         <div class="videoContainer" >
             <video id="bgVideo" autoplay loop muted="">
@@ -84,6 +84,16 @@ footer{
         </div>
 
     </div>
+    <div id="about" class="container-fluid">
+  <h1>About</h1>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+</div>
+<div id="mission" class="container-fluid">
+  <h1>Our Mission</h1>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+</div>
 
 </body>
 
