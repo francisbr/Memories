@@ -11,7 +11,7 @@
 </style>
 
 
-<div class="container" style="margin-top: 50px;">
+<div class="container">
 
 	<form style="margin: 20px 70px;">
 		<div class="input-group">

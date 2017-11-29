@@ -11,7 +11,7 @@
     width: 100%;
     margin-top: -50%;
     text-align: center;
-    transform: translateY(120%);
+    transform: translateY(110%);
     font-size: 18px;
     text-shadow: 0px 0px 8px #aaaaaa;
 }
