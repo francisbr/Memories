@@ -17,7 +17,7 @@
 </style>
 </head>
 
-<nav class="navbar navbar-default" style="z-index: 1;">
+<nav class="navbar navbar-default navbar-fixed-top" style="z-index: 200;">
     <div class="container-fluid">
         <div class="navbar-header">
             <a class="navbar-brand" href="index.php">Memories</a>

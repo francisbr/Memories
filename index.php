@@ -11,7 +11,7 @@
     width: 100%;
     margin-top: -50%;
     text-align: center;
-    transform: translateY(100%);
+    transform: translateY(120%);
     font-size: 18px;
     text-shadow: 0px 0px 8px #aaaaaa;
 }
@@ -25,41 +25,6 @@ video {
     
     height: 100%;
     width: 100%;
-}
-header nav{
-    float right;
-}
-header nav ul{
-    margin-top: 73px;
-}
-header nav ul li{
-    display: inline-block;
-    margin-left: 20px;
-    list-style: none; 
-
-}
-header nav ul li a{
-
-}
-footer nav{
-    float right;
-}
-footer nav ul{
-}
-footer nav ul li{
-    display: inline-block;
-    margin-left: 20px;
-    list-style: none; 
-
-}
-footer nav ul li a{
-    color: #000000
-    font-size: 10px;
-}
-footer{
-    width: 100%;
-    background-color: #ffffff;
-    padding: 60px 0px; 
 }
 </style>
 
