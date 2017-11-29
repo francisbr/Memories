@@ -1,9 +1,5 @@
-<?php include "header_login.php";?>
-<style>
-  .btn_setting{
-    margin-top: 10px;
-  }
-</style>
+<?php include "includes/header_login.php";?>
+<?php include "styles/modals.php";?>
 <body>
 <div class="container-fluid text-center">    
   <div class="row content">
@@ -20,7 +16,13 @@
       <p>Repeat Password</p>
       <input type="text" class="form-control"/>
       <div class="btn_setting">
-       <a href="#ChangePassword" class="btn btn-success" role="button">Confirm</a>
+       <button id="myBtn">Confirm</button>
+     </div>
+     <div id="myModal" class="modal">
+       <div class="modal-content">
+         <span class="close">&times</span>
+         <p>Password has been changed</p>
+       </div>
      </div>
      <hr>
      <h3>Change Email</h3>
@@ -31,41 +33,46 @@
       <p>Repeat Email</p>
       <input type="text" class="form-control"/>
       <div class="btn_setting">
-        <button type="button" name="login" id="login" class="btn btn-success" data-toggle="modal" data-target="#loginModal">Confirm</button>
-         <div id="loginModal" class="modal fade" role="dialog">  
-      <div class="modal-dialog">  
-   <!-- Modal content-->  
-           <div class="modal-content">  
-                <div class="modal-header">  
-                     <button type="button" class="close" data-dismiss="modal">&times;</button>  
-                     <h4 class="modal-title">Login</h4>  
-                </div>  
-                <div class="modal-body">  
-                     <label>Username</label>  
-                     <input type="text" name="username" id="username" class="form-control" />  
-                     <br />  
-                     <label>Password</label>  
-                     <input type="password" name="password" id="password" class="form-control" />  
-                     <br />  
-                     <button type="button" name="login_button" id="login_button" class="btn btn-warning">Login</button>  
-                </div>  
-           </div>  
+        <button id="myBtn">Confirm</button>
       </div>
+      <div id="myModal" class="modal">
+        <div class="modal-content">
+          <span class="close">&times</span>
+          <p>Email has been changed</p>
+        </div>
       </div>
-     
     </div>
   </div>
 </div>
 
-<?php include "footer.php";?>
 
 
+<script>
+// Get the modal
+var modal = document.getElementById('myModal');
 
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn");
 
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
 
+// When the user clicks the button, open the modal 
+btn.onclick = function() {
+    modal.style.display = "block";
+}
 
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+    modal.style.display = "none";
+}
 
-
-
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+</script>
 </body>
-<?php include "footer.php"; ?>
+<?php include "includes/footer.php"; ?>
