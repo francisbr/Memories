@@ -15,14 +15,14 @@
     font-size: 18px;
     text-shadow: 0px 0px 8px #aaaaaa;
 }
-video { 
+video {
     position: relative;
 
     left: 50%;
     transform: translateX(-50%);
     height: auto;
     overflow: hidden;
-    
+
     height: 100%;
     width: 100%;
 }
@@ -50,15 +50,16 @@ video {
 
     </div>
     <div id="about" class="container-fluid">
-  <h1>About</h1>
-  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
-  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
-</div>
-<div id="mission" class="container-fluid">
-  <h1>Our Mission</h1>
-  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
-  <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
-</div>
+        <h1>About</h1>
+        <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+        <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+    </div>
+    <div id="mission" class="container-fluid">
+        <h1>Our Mission</h1>
+        <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+        <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+    </div>
+
 
 </body>
 

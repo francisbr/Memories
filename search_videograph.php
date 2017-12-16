@@ -27,7 +27,7 @@
 
 	<div class="row">
 		<div class="col-sm-4">
-			<a href="#" style="color: #000000">
+			<a href="profile.php" style="color: #000000">
 				<div class="panel panel-primary" style="background-color: #000000">
 					<video class="panel-body video" style="width: 100%; margin: -14.87px; margin-left: 50%; transform: translateX(-50%);" id="bgVideo" loop  muted="" onmouseover="this.play();" onmouseout="this.pause();">
 						<source src="video1.mp4" type="video/mp4"></source>
