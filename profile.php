@@ -13,9 +13,9 @@
 .bg-img {
     height: 600px;
     background-position: 50% 30%;
-    background: linear-gradient(transparent, #ffffff), url("bg.jpg") ;
+    background: linear-gradient(transparent, transparent, #ffffff), url("bg.jpg") ;
     background-size: cover;
-    margin-bottom: -10%;
+    margin-bottom: -15%;
 }
 </style>
 
