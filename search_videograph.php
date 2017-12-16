@@ -36,7 +36,7 @@
 					<div class="panel-footer">
 						<div class="row">
 							<div class="col-sm-4">
-								<div class="profile_pic" style="background-image: url('tigre.jpg');"></div>
+								<div class="profile_pic" style="background-image: url('pp.jpg');"></div>
 							</div>
 							<div class="col-sm-8"><strong>Nom</strong><p><small>Simple description, easy peasy. Have fun one the website!</small></p></div>
 						</div>
@@ -55,7 +55,7 @@
 					<div class="panel-footer">
 						<div class="row">
 							<div class="col-sm-4">
-								<div class="profile_pic" style="background-image: url('tigre.jpg');"></div>
+								<div class="profile_pic" style="background-image: url('pp.jpg');"></div>
 							</div>
 							<div class="col-sm-8"><strong>Nom</strong><p><small>Simple description, easy peasy. Have fun one the website!</small></p></div>
 						</div>
@@ -74,7 +74,7 @@
 					<div class="panel-footer">
 						<div class="row">
 							<div class="col-sm-4">
-								<div class="profile_pic" style="background-image: url('tigre.jpg');"></div>
+								<div class="profile_pic" style="background-image: url('pp.jpg');"></div>
 							</div>
 							<div class="col-sm-8"><strong>Francis Boulet-Rouleau</strong><p><small>Simple description, easy peasy. Have fun one the website!</small></p></div>
 						</div>
@@ -94,7 +94,7 @@
 					<div class="panel-footer">
 						<div class="row">
 							<div class="col-sm-4">
-								<div class="profile_pic" style="background-image: url('tigre.jpg');"></div>
+								<div class="profile_pic" style="background-image: url('pp.jpg');"></div>
 							</div>
 							<div class="col-sm-8"><strong>Nom</strong><p><small>Simple description, easy peasy. Have fun one the website!</small></p></div>
 						</div>
@@ -113,7 +113,7 @@
 					<div class="panel-footer">
 						<div class="row">
 							<div class="col-sm-4">
-								<div class="profile_pic" style="background-image: url('tigre.jpg');"></div>
+								<div class="profile_pic" style="background-image: url('pp.jpg');"></div>
 							</div>
 							<div class="col-sm-8"><strong>Nom</strong><p><small>Simple description, easy peasy. Have fun one the website!</small></p></div>
 						</div>
@@ -132,7 +132,7 @@
 					<div class="panel-footer">
 						<div class="row">
 							<div class="col-sm-4">
-								<div class="profile_pic" style="background-image: url('tigre.jpg');"></div>
+								<div class="profile_pic" style="background-image: url('pp.jpg');"></div>
 							</div>
 							<div class="col-sm-8"><strong>Francis Boulet-Rouleau</strong><p><small>Simple description, easy peasy. Have fun one the website!</small></p></div>
 						</div>
@@ -148,7 +148,7 @@
 		<div class="panel-footer">
 			<div class="row">
 				<div class="col-sm-3" style="">
-					<div class="profile_pic" style="background-image: url('tigre.jpg'); min-height: 195px;"></div>
+					<div class="profile_pic" style="background-image: url('pp.jpg'); min-height: 195px;"></div>
 				</div>
 				<div class="col-sm-5">Hey bob
 					<p>Description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description </p>
@@ -166,7 +166,7 @@
 		<div class="panel-footer">
 			<div class="row">
 				<div class="col-sm-3" style="">
-					<div class="profile_pic" style="background-image: url('tigre.jpg'); min-height: 195px;"></div>
+					<div class="profile_pic" style="background-image: url('pp.jpg'); min-height: 195px;"></div>
 				</div>
 				<div class="col-sm-5">Hey francis
 					<p>Description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description </p>

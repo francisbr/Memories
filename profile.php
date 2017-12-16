@@ -13,7 +13,7 @@
 .bg-img {
     height: 600px;
     background-position: 50% 30%;
-    background: linear-gradient(transparent, #ffffff), url("tigre.jpg") ;
+    background: linear-gradient(transparent, #ffffff), url("bg.jpg") ;
     background-size: cover;
     margin-bottom: -10%;
 }
@@ -32,7 +32,7 @@ $(document).ready(function(){
         <div class="col-sm-3 well">
             <div class="well">
                 <p>John Doe</p>
-                <div class="profile_pic img-circle" style="background-image: url('tigre.jpg');"></div>
+                <div class="profile_pic img-circle" style="background-image: url('pp.jpg');"></div>
             </div>
             <div class="well">
                 <p>Age: <span class="label label-primary">22</span></p>
